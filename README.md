@@ -20,9 +20,13 @@ This project aims to predict the likelihood of stroke using **machine learning m
 
 ## 🔥 Key Features
 ✅ **Data Preprocessing & Feature Engineering**: Missing value imputation, outlier detection, encoding, and scaling.
+
 ✅ **Class Imbalance Handling**: Augmented minority class representation using **SMOTE** to balance stroke cases.
+
 ✅ **Model Optimization & Evaluation**: Fine-tuned **Random Forest & XGBoost**, achieving **97.4% accuracy**.
+
 ✅ **Explainable AI**: Used **SHAP** to highlight the **top 5 stroke risk factors**.
+
 ✅ **Hyperparameter Tuning**: Optimized model performance using **Optuna**, improving prediction precision and recall.
 
 ## ⚙️ Installation
@@ -84,4 +88,4 @@ Feel free to **fork** this repository, **open issues**, or submit **pull request
 This project is **open-source** and available under the **MIT License**.
 
 ## 📬 Contact
-For any questions or collaborations, reach out to me at **jaiswalpratik49@gmail.com** or connect via [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pratik-jaiswal-468315197/)). 🚀
+For any questions or collaborations, reach out to me at **jaiswalpratik49@gmail.com** or connect via [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pratik-jaiswal-468315197/)). 🚀
